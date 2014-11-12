@@ -10,5 +10,5 @@
     "canvas2image"
   ],
   "license": "MIT",
-  "private": false
+  "private": true
 }
