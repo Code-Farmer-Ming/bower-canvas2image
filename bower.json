@@ -4,11 +4,14 @@
   "authors": [
     "aston zhang <zhangming1021@gmail.com>"
   ],
+  "ignore": [
+        "tests",
+        ".travis.yml"
+  ],
   "description": "bower canvas2image",
   "main": "canvas2image/canvas2image.js",
   "keywords": [
     "canvas2image"
   ],
-  "license": "MIT",
-  "private": false
+  "license": "MIT"
 }
